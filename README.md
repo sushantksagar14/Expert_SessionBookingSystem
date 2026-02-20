@@ -133,8 +133,7 @@ Each expert has time slots available for the **next 7 days** (9 slots per day).
 
 ## 👤 Author
 
-**Sushant Kumar Sagar**  
-Full Stack Developer Intern — Internshala Assignment  
+**Sushant Kshirsagar**  
 
 ---
 
